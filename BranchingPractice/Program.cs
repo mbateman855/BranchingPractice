@@ -6,7 +6,7 @@ namespace BranchingPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("I've made changes! Muwahahahahaha! ");
         }
     }
 }
