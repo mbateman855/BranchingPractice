@@ -8,7 +8,7 @@ namespace BranchingPractice
         {
             Console.WriteLine("Hello World!");
             int x = 5;
-            int y = 5;
+            int y = 4;
 
             Console.WriteLine(x + y); 
         }
