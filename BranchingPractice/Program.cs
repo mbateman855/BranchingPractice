@@ -2,7 +2,7 @@
 
 namespace BranchingPractice
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
@@ -11,7 +11,8 @@ namespace BranchingPractice
             int x = 5;
             int y = 4;
 
-            Console.WriteLine(x + y); 
+            Console.WriteLine(x + y);
+
         }
     }
 }
