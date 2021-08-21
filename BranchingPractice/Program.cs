@@ -9,7 +9,7 @@ namespace BranchingPractice
             Console.WriteLine("I've made changes! Muwahahahahaha! ");
             Console.WriteLine("Hello World!");
             int x = 5;
-            int y = 4;
+            int y = 42;
 
             Console.WriteLine(x + y); 
         }
